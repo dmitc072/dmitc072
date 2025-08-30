@@ -18,7 +18,7 @@ I build clean APIs and practical full‑stack apps. Recent focus: **Spring Boot 
 - **Space Invader (JS game)** — canvas, collision, score.  
   [Code](https://github.com/dmitc072/Space-Invader) • [Live](https://dmitc072.github.io/Space-Invader/)
 - **Simon (HTML/JS game)** — keyboard/mouse play, levels.  
-  [Code](https://github.com/dmitc072/Simon) • Live (GitHub Pages)
+  [Code](https://github.com/dmitc072/Simon) • [Live](https://dmitc072.github.io/Simon/)
 
 ### 🛠️ Toolbox
 Java (Spring Boot) • C# (.NET 8, EF Core) • JavaScript (ES6) • React • HTML5 • CSS3/SCSS • Firebase (Auth/Firestore/Hosting) • GitHub Actions
