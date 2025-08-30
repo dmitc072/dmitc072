@@ -12,10 +12,9 @@ I build clean APIs and practical full‑stack apps. Recent focus: **Spring Boot 
 - **Rental Finder (React + Firebase)** — messaging, approvals, dark mode.  
   [Code](https://github.com/dmitc072/final-project-airbnb) • Live (Netlify) • Docs
 - **Vector Software (Java + JS)** — utility collection + demos.  
-  [Code](https://github.com/dmitc072/Vector-Software)
-  [Play](https://dmitc072.github.io/Vector-Software/)
+  [Code](https://github.com/dmitc072/Vector-Software) • Live [(Github Pages)](https://dmitc072.github.io/Vector-Software/)
 - **Apartment Calculator (JS)** — monthly cost breakdown with inputs/validation.  
-  [Code](https://github.com/dmitc072/Apartment-Calculator) • Live (GitHub Pages)
+  [Code](https://github.com/dmitc072/Apartment-Calculator) • Live [(GitHub Pages)](https://dmitc072.github.io/Apartment-Calculator/)
 - **Space Invader (JS game)** — canvas, collision, score.  
   [Code](https://github.com/dmitc072/Space-Invader) • Live (GitHub Pages)
 - **Simon (HTML/JS game)** — keyboard/mouse play, levels.  
