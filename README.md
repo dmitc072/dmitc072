@@ -13,6 +13,7 @@ I build clean APIs and practical full‑stack apps. Recent focus: **Spring Boot 
   [Code](https://github.com/dmitc072/final-project-airbnb) • Live (Netlify) • Docs
 - **Vector Software (Java + JS)** — utility collection + demos.  
   [Code](https://github.com/dmitc072/Vector-Software)
+  [Play](https://dmitc072.github.io/Vector-Software/)
 - **Apartment Calculator (JS)** — monthly cost breakdown with inputs/validation.  
   [Code](https://github.com/dmitc072/Apartment-Calculator) • Live (GitHub Pages)
 - **Space Invader (JS game)** — canvas, collision, score.  
