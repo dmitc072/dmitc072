@@ -10,7 +10,7 @@ I build clean APIs and practical full‑stack apps. Recent focus: **Spring Boot 
 
 ### ⚡ Featured Projects (pinned)
 - **Rental Finder (React + Firebase)** — messaging, approvals, dark mode.  
-  [Code](https://github.com/dmitc072/final-project-airbnb) • Live (Netlify) • Docs
+  [Code](https://github.com/dmitc072/final-project-airbnb) • [Live](https://nimble-babka-52d07d.netlify.app)
 - **Vector Software (Java + JS)** — utility collection + demos.  
   [Code](https://github.com/dmitc072/Vector-Software) • [Live](https://dmitc072.github.io/Vector-Software/)
 - **Apartment Calculator (JS)** — monthly cost breakdown with inputs/validation.  
