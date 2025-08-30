@@ -1,30 +1,37 @@
-# Hi, I'm Duane 👋
+# Hi, I'm Duane Mitchell 👋
 
-**Java • C# • JavaScript • React • HTML/CSS • Firebase**  
-I build clean APIs and practical full‑stack apps. Recent focus: **Spring Boot (Java)**, **.NET 8 (C#)**, and **React + Firebase**.
+**Full-stack Developer — Java (Spring Boot) • C# (.NET 8) • JavaScript/React • Firebase**
 
-- 🔭 Recent: **Rental Finder** — full‑stack Airbnb‑style app (React + Firebase)
+I build practical, well-documented apps with clean APIs and real-world features (auth, messaging, payments, CI/CD).
+
+- 🔭 Recent: **Rental Finder** (Airbnb-style app) — React + Firebase + Netlify
 - 🧪 I write tests and ship docs/demos with every repo
-- 💬 Ask me about: Spring Boot REST APIs, .NET Web API with EF Core, React state patterns, Firebase auth/hosting
-- 📫 Reach me: dmitchell544@gmail.com • [LinkedIn](<add-your-link>) • [Portfolio](https://nimble-babka-52d07d.netlify.app)
+- 💬 Ask me about: Spring Boot REST, .NET Web API + EF Core, React state patterns, Firebase auth/hosting
+- 🌐 Portfolio: https://nimble-babka-52d07d.netlify.app
+- 🔗 LinkedIn: https://www.linkedin.com/in/duanemitchell1984
+- 📫 Reach me: dmitchell544@gmail.com
 
-### ⚡ Featured Projects (pinned)
-- **Rental Finder (React + Firebase)** — messaging, approvals, dark mode.  
-  [Code](https://github.com/dmitc072/final-project-airbnb) • [Live](https://nimble-babka-52d07d.netlify.app)
-- **Vector Software (Java + JS)** — utility collection + demos.  
-  [Code](https://github.com/dmitc072/Vector-Software) • [Live](https://dmitc072.github.io/Vector-Software/)
-- **Apartment Calculator (JS)** — monthly cost breakdown with inputs/validation.  
-  [Code](https://github.com/dmitc072/Apartment-Calculator) • [Live](https://dmitc072.github.io/Apartment-Calculator/)
-- **Space Invader (JS game)** — canvas, collision, score.  
-  [Code](https://github.com/dmitc072/Space-Invader) • [Live](https://dmitc072.github.io/Space-Invader/)
-- **Simon (HTML/JS game)** — keyboard/mouse play, levels.  
-  [Code](https://github.com/dmitc072/Simon) • [Live](https://dmitc072.github.io/Simon/)
+---
 
-### 🛠️ Toolbox
-Java (Spring Boot) • C# (.NET 8, EF Core) • JavaScript (ES6) • React • HTML5 • CSS3/SCSS • Firebase (Auth/Firestore/Hosting) • GitHub Actions
+## 🔥 Featured Projects
 
-### 📚 Writing
-- “Building a REST API with Spring Boot and JWT” — 5‑minute read (coming soon)
-- “Testing EF Core Repositories in .NET 8” — 4‑minute read (coming soon)
+| Project | Stack | Live | Code |
+|---|---|---|---|
+| Rental Finder | React, Firebase, Netlify, Redux | _(live link)_ | https://github.com/dmitc072/final-project-airbnb |
+| Vector Software (graphics tool) | JS, HTML, CSS | _(live link)_ | https://github.com/dmitc072/Vector-Software |
+| Apartment Calculator | JS, HTML, CSS | _(live link)_ | https://github.com/dmitc072/Apartment-Calculator |
+| Space Invader (game) | JS (Canvas) | _(live link)_ | https://github.com/dmitc072/Space-Invader |
+| Simon (game) | HTML/JS | _(live link)_ | https://github.com/dmitc072/Simon |
+| API Starter (WIP) | Spring Boot / or .NET 8 | _(soon)_ | _(soon)_ |
+
+---
+
+## 🧰 Toolbox
+Java (Spring Boot) • C# (.NET 8, EF Core) • JavaScript (ES6) • React • HTML5 • CSS/SCSS • Firebase (Auth/Firestore/Hosting) • GitHub Actions
+
+## 📈 Highlights
+- CI on every repo (lint, test, build) + automated deploys for static sites
+- Strong READMEs with setup, architecture, and demo GIFs
+- Issues & Projects used to track roadmap and bugs
 
 > If something looks useful, ⭐ the repo and open an issue—happy to help!
