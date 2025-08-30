@@ -17,11 +17,11 @@ I build practical, well-documented apps with clean APIs and real-world features 
 
 | Project | Stack | Live | Code |
 |---|---|---|---|
-| Rental Finder | React, Firebase, Netlify, Redux | _(live link)_ | https://github.com/dmitc072/final-project-airbnb |
-| Vector Software (graphics tool) | JS, HTML, CSS | _(live link)_ | https://github.com/dmitc072/Vector-Software |
-| Apartment Calculator | JS, HTML, CSS | _(live link)_ | https://github.com/dmitc072/Apartment-Calculator |
-| Space Invader (game) | JS (Canvas) | _(live link)_ | https://github.com/dmitc072/Space-Invader |
-| Simon (game) | HTML/JS | _(live link)_ | https://github.com/dmitc072/Simon |
+| Rental Finder | React, Firebase, Netlify, Redux | https://nimble-babka-52d07d.netlify.app | https://github.com/dmitc072/final-project-airbnb |
+| Vector Software (graphics tool) | JS, HTML, CSS | https://dmitc072.github.io/Vector-Software/ | https://github.com/dmitc072/Vector-Software |
+| Apartment Calculator | JS, HTML, CSS | https://dmitc072.github.io/Apartment-Calculator/ | https://github.com/dmitc072/Apartment-Calculator |
+| Space Invader (game) | JS (Canvas) | https://dmitc072.github.io/Space-Invader/ | https://github.com/dmitc072/Space-Invader |
+| Simon (game) | HTML/JS | https://dmitc072.github.io/Simon/ | https://github.com/dmitc072/Simon |
 | API Starter (WIP) | Spring Boot / or .NET 8 | _(soon)_ | _(soon)_ |
 
 ---
