@@ -1,37 +1,58 @@
-# Hi, I'm Duane Mitchell 👋
+# Hi, I'm Duane Mitchelll (dmitc072) 👋
 
-**Full-stack Developer — Java (Spring Boot) • C# (.NET 8) • JavaScript/React • Firebase**
+**Full-Stack Developer** — Java (Spring Boot) • C# (.NET 8) • JavaScript / React • Firebase  
 
-I build practical, well-documented apps with clean APIs and real-world features (auth, messaging, payments, CI/CD).
-
-- 🔭 Recent: **Rental Finder** (Airbnb-style app) — React + Firebase + Netlify
-- 🧪 I write tests and ship docs/demos with every repo
-- 💬 Ask me about: Spring Boot REST, .NET Web API + EF Core, React state patterns, Firebase auth/hosting
-- 🌐 Portfolio: https://nimble-babka-52d07d.netlify.app
-- 🔗 LinkedIn: https://www.linkedin.com/in/duanemitchell1984
-- 📫 Reach me: dmitchell544@gmail.com
+I build practical, well-documented apps featuring clean APIs, CI/CD, and real-world features like auth, messaging, and payments.
 
 ---
 
-## 🔥 Featured Projects
+## 📌 Featured Projects
 
-| Project | Stack | Live | Code |
-|---|---|---|---|
-| Rental Finder | React, Firebase, Netlify, Redux | https://nimble-babka-52d07d.netlify.app | https://github.com/dmitc072/final-project-airbnb |
-| Vector Software (graphics tool) | JS, HTML, CSS | https://dmitc072.github.io/Vector-Software/ | https://github.com/dmitc072/Vector-Software |
-| Apartment Calculator | JS, HTML, CSS | https://dmitc072.github.io/Apartment-Calculator/ | https://github.com/dmitc072/Apartment-Calculator |
-| Space Invader (game) | JS (Canvas) | https://dmitc072.github.io/Space-Invader/ | https://github.com/dmitc072/Space-Invader |
-| Simon (game) | HTML/JS | https://dmitc072.github.io/Simon/ | https://github.com/dmitc072/Simon |
-| API Starter (WIP) | Spring Boot / or .NET 8 | _(soon)_ | _(soon)_ |
+| Project           | Stack                         | Live / Demo                                           | GitHub Repo                                            |
+|------------------|-------------------------------|-------------------------------------------------------|--------------------------------------------------------|
+| Rental Finder     | React, Firebase, Netlify, Redux | [Live Site](https://nimble-babka-52d07d.netlify.app) | [Repo](https://github.com/dmitc072/final-project-airbnb) |
+| Vector Software   | JS, HTML, CSS                 | [Live Demo](https://dmitc072.github.io/Vector-Software/) | [Repo](https://github.com/dmitc072/Vector-Software)     |
+| Apartment Calculator | JS, HTML, CSS             | [Demo](https://dmitc072.github.io/Apartment-Calculator/) | [Repo](https://github.com/dmitc072/Apartment-Calculator) |
+| Space Invader     | JavaScript (Canvas)           | [Play](https://dmitc072.github.io/Space-Invader/)     | [Repo](https://github.com/dmitc072/Space-Invader)      |
+| Simon             | HTML/JS                       | [Play](https://dmitc072.github.io/Simon/)             | [Repo](https://github.com/dmitc072/Simon)              |
+| API Starter (WIP) | Spring Boot / .NET 8          | —                                                     | (Soon)                                                 |
 
 ---
 
-## 🧰 Toolbox
-Java (Spring Boot) • C# (.NET 8, EF Core) • JavaScript (ES6) • React • HTML5 • CSS/SCSS • Firebase (Auth/Firestore/Hosting) • GitHub Actions
+## 🛠 Toolbox  
 
-## 📈 Highlights
-- CI on every repo (lint, test, build) + automated deploys for static sites
-- Strong READMEs with setup, architecture, and demo GIFs
-- Issues & Projects used to track roadmap and bugs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-> If something looks useful, ⭐ the repo and open an issue—happy to help!
+---
+
+## 📊 GitHub Stats  
+
+![Duane's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitc072&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitc072&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Highlights
+
+- CI pipelines on every repo (lint, test, build) with automated deploys  
+- Detailed READMEs with architecture diagrams, setup steps, and demo GIFs  
+- Active use of GitHub Issues & Projects for roadmap & bug tracking  
+
+---
+
+## 🤝 Connect With Me
+
+- 🌐 Portfolio: [Live Site](https://nimble-babka-52d07d.netlify.app)  
+- 💼 LinkedIn: [duanemitchell1984](https://www.linkedin.com/in/duanemitchell1984)  
+- 📧 Email: dmitchell544@gmail.com  
+
+> If anything here looks useful — ⭐ the repo, open an issue, or just say hi!
