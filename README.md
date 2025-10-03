@@ -15,7 +15,7 @@ I build practical, well-documented apps featuring clean APIs, CI/CD, and real-wo
 | Apartment Calculator | JS, HTML, CSS             | [Demo](https://dmitc072.github.io/Apartment-Calculator/) | [Repo](https://github.com/dmitc072/Apartment-Calculator) |
 | Space Invader     | JavaScript (Canvas)           | [Play](https://dmitc072.github.io/Space-Invader/)     | [Repo](https://github.com/dmitc072/Space-Invader)      |
 | Simon             | HTML/JS                       | [Play](https://dmitc072.github.io/Simon/)             | [Repo](https://github.com/dmitc072/Simon)              |
-| API Starter (WIP) | Spring Boot / .NET 8          | —                                                     | (Soon)                                                 |
+| **ChatAI (C#)** | .NET 8 console chatbot with pluggable LLM client (OpenAI-compatible) | CLI app | [Repo](https://github.com/dmitc072/csharp-chatbot) |
 
 ---
 
